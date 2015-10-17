@@ -1,0 +1,29 @@
+{
+  "name": "lithium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chyld/lithium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chyld/lithium/issues"
+  },
+  "homepage": "https://github.com/chyld/lithium#readme",
+  "devDependencies": {
+    "babel-loader": "^5.3.2",
+    "file-loader": "^0.8.4",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  },
+  "dependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  }
+}
